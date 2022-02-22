@@ -12,6 +12,11 @@
   resolved "https://registry.npmmirror.com/@steedos-labs/oa/download/@steedos-labs/oa-2.1.46.tgz#8805973d56bc493789c42b6b021f6446883a5a98"
   integrity sha512-YK219meTkA+gqISKZlKPdIUaOB3gOVzJ1xJlUpa3euuUCMAphIBXmElM5Dg0hYXTkucqmAk4CCwi4HYULahNmg==
 
+"@steedos-labs/project@2.1.57":
+  version "2.1.57"
+  resolved "https://registry.yarnpkg.com/@steedos-labs/project/-/project-2.1.57.tgz#a4f0941b27e57e6ceef5b342728cfbf0e8aa680f"
+  integrity sha512-/mDU/OOEdJv/Voxqbc8+wdxFSmhvXCTmG6LPi2xuEilnqb08VS80JJPUcE9PScA6wrvnUqsqXVyjSteCaDhKAw==
+
 "@steedos-labs/workflow@2.1.46":
   version "2.1.46"
   resolved "https://registry.npmmirror.com/@steedos-labs/workflow/download/@steedos-labs/workflow-2.1.46.tgz#f123666881d0527ab7f56ab706a60232170ae9b7"
