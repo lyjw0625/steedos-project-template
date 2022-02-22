@@ -1,0 +1,6 @@
+name: enabled
+is_enable: true
+label: 启用
+'on': list_item
+type: script
+visible: true

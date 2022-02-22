@@ -1,0 +1,16 @@
+name: quarter__c
+data_type: text
+defaultValue: 第一季度
+label: 季度
+options:
+  - label: 第一季度
+    value: first
+  - label: 第二季度
+    value: second
+  - label: 第三季度
+    value: third
+  - label: 第四季度
+    value: fourth
+required: true
+sort_no: 130
+type: select

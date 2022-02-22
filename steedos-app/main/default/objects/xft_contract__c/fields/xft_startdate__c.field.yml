@@ -1,0 +1,7 @@
+name: xft_startdate__c
+label: 合同起始日
+required: true
+searchable: true
+sort_no: 120
+sortable: true
+type: date

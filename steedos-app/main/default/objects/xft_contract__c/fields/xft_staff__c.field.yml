@@ -1,0 +1,7 @@
+name: xft_staff__c
+label: 员工
+reference_to: space_users
+searchable: true
+sort_no: 180
+type: master_detail
+write_requires_master_read: true

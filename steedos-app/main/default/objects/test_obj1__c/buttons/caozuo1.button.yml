@@ -1,0 +1,6 @@
+name: caozuo1
+is_enable: true
+label: caozuo1
+'on': list
+type: script
+visible: true

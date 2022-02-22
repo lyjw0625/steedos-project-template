@@ -1,0 +1,10 @@
+name: xft_staff__c
+filterable: true
+label: 员工
+reference_to: space_users
+required: true
+searchable: true
+sort_no: 110
+sortable: true
+type: master_detail
+write_requires_master_read: true

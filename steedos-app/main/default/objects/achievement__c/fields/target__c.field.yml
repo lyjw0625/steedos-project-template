@@ -1,0 +1,6 @@
+name: target__c
+label: 目标
+required: true
+rows: 3
+sort_no: 140
+type: textarea

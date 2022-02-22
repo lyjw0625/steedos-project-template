@@ -1,0 +1,4 @@
+name: xft_graduateddate__c
+label: 毕业时间
+sort_no: 140
+type: date

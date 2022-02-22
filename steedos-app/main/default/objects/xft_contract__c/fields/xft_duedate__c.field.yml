@@ -1,0 +1,7 @@
+name: xft_duedate__c
+label: 合同到期日
+required: true
+searchable: true
+sort_no: 160
+sortable: true
+type: date

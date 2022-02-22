@@ -1,0 +1,18 @@
+name: xft_type__c
+data_type: number
+label: 合同类型
+options:
+  - label: 固定期限劳动合同
+    value: '1'
+    color: 80dfff
+  - label: 无固定期限劳动合同
+    value: '2'
+    color: 66ffc2
+  - label: 外包合同
+    value: '3'
+    color: ffaa80
+required: true
+searchable: true
+sort_no: 130
+sortable: true
+type: select

@@ -1,0 +1,7 @@
+name: xft_number__c
+label: 合同编号
+required: true
+searchable: true
+sort_no: 110
+sortable: true
+type: text

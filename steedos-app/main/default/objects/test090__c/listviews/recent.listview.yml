@@ -1,0 +1,19 @@
+name: recent
+columns:
+  - field: name
+filter_scope: space
+filters:
+  - field: name
+    operation: contains
+    value: test
+  - field: created_by
+    operation: '='
+    value:
+      - 61d97b3be18472001fa92672
+  - field: modified
+    operation: between
+    value:
+      - 2022-02-15T08:01:00.000Z
+      - 2022-02-16T08:01:00.000Z
+label: 最近查看
+shared: true

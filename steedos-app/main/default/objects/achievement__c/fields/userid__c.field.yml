@@ -1,0 +1,10 @@
+name: userid__c
+index: true
+is_name: false
+label: 员工编号
+readonly: false
+required: true
+searchable: false
+sort_no: 1
+sortable: true
+type: text

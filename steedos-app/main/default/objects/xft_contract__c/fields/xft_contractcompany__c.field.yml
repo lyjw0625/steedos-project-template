@@ -1,0 +1,8 @@
+name: xft_contractcompany__c
+label: 合同公司
+reference_to: xft_contract_company__c
+required: true
+searchable: true
+sort_no: 170
+sortable: true
+type: lookup
