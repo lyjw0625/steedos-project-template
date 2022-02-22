@@ -1,0 +1,4 @@
+name: author__c
+label: 作者
+sort_no: 120
+type: text

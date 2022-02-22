@@ -1,0 +1,5 @@
+name: content__c
+label: 内容
+rows: 10
+sort_no: 130
+type: textarea

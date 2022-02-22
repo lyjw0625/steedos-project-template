@@ -1,0 +1,15 @@
+name: 门户
+code: portal
+description: 测试门户
+icon_slds: address
+is_creator: true
+is_new_window: false
+is_use_ie: false
+is_use_iframe: false
+mobile: true
+mobile_objects:
+  - news__c
+objects:
+  - news__c
+sort: 9100
+visible: true
