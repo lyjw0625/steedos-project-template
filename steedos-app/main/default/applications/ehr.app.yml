@@ -1,0 +1,12 @@
+name: 人力资源管理系统
+code: ehr
+icon_slds: custom
+is_creator: true
+is_new_window: false
+is_use_ie: false
+is_use_iframe: false
+mobile: true
+objects:
+  - leave__c
+sort: 9100
+visible: true

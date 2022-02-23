@@ -1,0 +1,7 @@
+name: sign_date
+index: true
+label: 签到日期
+required: true
+searchable: true
+sort_no: 100
+type: date
