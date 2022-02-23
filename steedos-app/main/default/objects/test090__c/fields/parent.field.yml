@@ -1,5 +1,0 @@
-name: parent
-label: 父test_090
-reference_to: test090__c
-sort_no: 100
-type: lookup

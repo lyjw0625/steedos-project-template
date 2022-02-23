@@ -1,7 +1,0 @@
-name: children
-hidden: true
-label: 子test_090
-multiple: true
-reference_to: test090__c
-sort_no: 100
-type: lookup

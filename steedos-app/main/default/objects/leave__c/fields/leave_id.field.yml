@@ -1,6 +1,6 @@
-name: name
+name: leave_id
 index: true
-label: 名称
+label: 请假编号
 required: true
 searchable: true
 sort_no: 100

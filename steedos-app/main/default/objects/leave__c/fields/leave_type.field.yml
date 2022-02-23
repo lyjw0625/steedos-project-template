@@ -1,0 +1,13 @@
+name: leave_type
+index: true
+label: 请假类型
+options:
+  - label: 年假
+    value: nj
+    color: ffffff
+  - label: 病假
+    value: bj
+    color: ffffff
+required: true
+sort_no: 100
+type: select

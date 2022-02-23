@@ -1,9 +1,0 @@
-name: name
-index: true
-is_name: false
-label: 员工姓名
-readonly: false
-required: true
-searchable: true
-sort_no: 2
-type: text
